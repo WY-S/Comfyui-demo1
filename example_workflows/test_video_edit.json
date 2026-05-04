@@ -1,0 +1,68 @@
+{
+  "last_node_id": 1,
+  "last_link_id": 0,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "HappyHorse VideoEdit",
+      "pos": [200, 180],
+      "size": [500, 560],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "reference_images",
+          "type": "IMAGE",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "video",
+          "type": "VIDEO",
+          "links": null,
+          "slot_index": 0
+        },
+        {
+          "name": "video_url",
+          "type": "STRING",
+          "links": null,
+          "slot_index": 1
+        },
+        {
+          "name": "video_path",
+          "type": "STRING",
+          "links": null,
+          "slot_index": 2
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "HappyHorse VideoEdit"
+      },
+      "widgets_values": [
+        "",
+        "https://cdn.translate.alibaba.com/r2staticjava/1b4c7b1d-4b8f-4e3c-9c8c-8d8d8d8d8d8d.mp4",
+        "把视频中的场景改为黄昏时分，暖色调光影，天空呈现橙红色晚霞",
+        "720P",
+        "16:9",
+        0,
+        true,
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "links": [],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 1,
+      "offset": [0, 0]
+    }
+  },
+  "version": 0.4
+}

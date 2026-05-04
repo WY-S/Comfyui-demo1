@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs / 测试产物
+tests/test_run.log
+tests/*.log
+*.log
+
+# ComfyUI 运行时输出
+output/
+temp/
+
+# 本地敏感配置（config.json 里的 api_key / OSS 凭证请自行填写，勿提交真实值）
+# 本仓库已提供脱敏版 config.json 作为模板，默认不忽略
+
+# 临时脚本
+_git_init.ps1

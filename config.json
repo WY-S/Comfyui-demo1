@@ -1,0 +1,9 @@
+{
+    "api_key": "",
+    "base_url": "https://dashscope.aliyuncs.com/api/v1/services/aigc/video-generation/video-synthesis",
+    "task_url": "https://dashscope.aliyuncs.com/api/v1/tasks",
+    "OSS_ACCESS_KEY": "",
+    "OSS_SECRET_KEY": "",
+    "bucket": "",
+    "endpoint": "oss-cn-beijing.aliyuncs.com"
+}
