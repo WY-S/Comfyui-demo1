@@ -1,7 +1,7 @@
 # Comfyui-Wenyi-demo1 · HappyHorse 视频生成节点
 
 基于阿里百炼 **HappyHorse** 视频生成 API 的 ComfyUI 自定义节点集。支持在 ComfyUI 画布中一键调用文生视频 / 图生视频 / 参考生视频 / 视频编辑能力，并在节点内直接内嵌播放生成结果。
-
+注意：此项目代码仅供演示使用
 ---
 
 ## ✨ 功能特性
